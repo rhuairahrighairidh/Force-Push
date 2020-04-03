@@ -1,3 +1,3 @@
 # Force-Push
 
-A repo to experiment with effects of forece pushing.
+A repo to experiment with the effects of force pushing.
